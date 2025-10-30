@@ -322,21 +322,21 @@
     "@babel/helper-validator-identifier" "^7.22.20"
     to-fast-properties "^2.0.0"
 
-"@carbon/icon-helpers@^10.47.0":
-  version "10.47.0"
-  resolved "https://registry.yarnpkg.com/@carbon/icon-helpers/-/icon-helpers-10.47.0.tgz#40a6618867980a6da3aedf0da9d8fd7fd078200a"
-  integrity sha512-vv2Wkuw7lYkYVKrn5ABzlZD+6ioAYwMuyKi2XPqYY3hrHYoL4CQUnuSFDhlj0DR2HHCB0L5MGRLxHLucx5cc7g==
+"@carbon/icon-helpers@^10.68.0":
+  version "10.68.0"
+  resolved "https://registry.yarnpkg.com/@carbon/icon-helpers/-/icon-helpers-10.68.0.tgz#8e80e48f52240de2bda1816338172a2563541d8a"
+  integrity sha512-fYor/Fs0RLtPMh2KRyPYR83JKoWbAmoQ7tCIW0QQcwYcIu82tvy7uT8vTNhda21w3uueOp70p6rYyY6vYjuRZA==
   dependencies:
-    "@ibm/telemetry-js" "^1.2.1"
+    "@ibm/telemetry-js" "^1.5.0"
 
-"@carbon/icons-react@^11.34.1":
-  version "11.40.0"
-  resolved "https://registry.yarnpkg.com/@carbon/icons-react/-/icons-react-11.40.0.tgz#f1c4315000ae3e81c1d8a628f2488f2576625bfb"
-  integrity sha512-mMWsgklghC9R29G8m8mFrH22yK+Rge/NHWf/IsHJ82KufMwljCZ8IYooJ5NP2SUldJZ1qL9eRvi4HFUGqdr3lw==
+"@carbon/icons-react@^11.69.0":
+  version "11.70.0"
+  resolved "https://registry.yarnpkg.com/@carbon/icons-react/-/icons-react-11.70.0.tgz#0681bd0d632d8e5722b7c44942ad7b2847b9e5fb"
+  integrity sha512-hpC10UuSLnLCfGw4TizMf4Omm2+P3vHmstN7y7hUsRCI4lG9BC2OHEtYZiVYdBNoshKxGE2m3iUZrM3cJhIebQ==
   dependencies:
-    "@carbon/icon-helpers" "^10.47.0"
-    "@ibm/telemetry-js" "^1.2.1"
-    prop-types "^15.7.2"
+    "@carbon/icon-helpers" "^10.68.0"
+    "@ibm/telemetry-js" "^1.5.0"
+    prop-types "^15.8.1"
 
 "@esbuild/aix-ppc64@0.19.11":
   version "0.19.11"
@@ -661,10 +661,10 @@
   resolved "https://registry.yarnpkg.com/@humanwhocodes/object-schema/-/object-schema-2.0.2.tgz#d9fae00a2d5cb40f92cfe64b47ad749fbc38f917"
   integrity sha512-6EwiSjwWYP7pTckG6I5eyFANjPhmPjUX9JRLUSfNPC7FX7zK9gyZAfUEaECL6ALTpGX5AjnBq3C9XmVWPitNpw==
 
-"@ibm/telemetry-js@^1.2.1":
-  version "1.5.0"
-  resolved "https://registry.yarnpkg.com/@ibm/telemetry-js/-/telemetry-js-1.5.0.tgz#ab73e0988088e2cbb01a7086a31ccc3826a81ba0"
-  integrity sha512-RwOohLaWw97vEEwhPnlDJlORuworVOjC2R6WzSVlG7suG08qTMLVRVpnnunUCSQHyxP1Y30V9IF5vsxVrMBOHg==
+"@ibm/telemetry-js@^1.5.0":
+  version "1.10.2"
+  resolved "https://registry.yarnpkg.com/@ibm/telemetry-js/-/telemetry-js-1.10.2.tgz#6d4bfb5cce275b8a061c64199bcc9f1ad23477b2"
+  integrity sha512-F8+/NNUwtm8BuFz18O9KPvIFTFDo8GUSoyhPxPjEpk7nEyEzWGfhIiEPhL00B2NdHRLDSljh3AiCfSnL/tutiQ==
 
 "@isaacs/cliui@^8.0.2":
   version "8.0.2"
@@ -3357,7 +3357,7 @@ promise@^7.1.1:
   dependencies:
     asap "~2.0.3"
 
-prop-types@^15.7.2, prop-types@^15.8.1:
+prop-types@^15.8.1:
   version "15.8.1"
   resolved "https://registry.yarnpkg.com/prop-types/-/prop-types-15.8.1.tgz#67d87bf1a694f48435cf332c24af10214a3140b5"
   integrity sha512-oj87CgZICdulUohogVAR7AjlC0327U4el4L6eAvOqCeudMDVU0NThNaV+b9Df4dXgSP1gXMTnPdhfe/2qDH5cg==
